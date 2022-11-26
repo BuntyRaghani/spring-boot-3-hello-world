@@ -2,7 +2,7 @@
 
 **A simple Spring Boot 3.x app to send hello world message to a user**
 
-**Note:** **Spring Boot 3.x** requires **Java 17** as a minimum version. Make sure you are using Java 17 or beyond for Spring Boot 3.x projects.
+> **Note:** **Spring Boot 3.x** requires **Java 17** as a minimum version. Make sure you are using Java 17 or beyond for Spring Boot 3.x projects.
 
 ## How to Run Application
 
